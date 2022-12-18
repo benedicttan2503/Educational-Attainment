@@ -1,5 +1,5 @@
 # Educational-Attainment
-This project compares the average educational attainment of each racial group in the United States and compares it to the national average using Excel and PowerBI. If you do not have PowerBI installed on your computer, the report is available in PDF though it is not interactive.
+This project compares the educational attainment of each racial group in the United States to the national average using Excel and PowerBI. If you do not have PowerBI installed on your computer, the report is available in PDF though it is not interactive.
 # Dataset
 The dataset used for this project comes from the United States Census Bureau. Table 3. Detailed Years of School Completed by People 25 Years and Over by Sex, Age Groups, Race and Hispanic Origin: 2021. https://www.census.gov/data/tables/2021/demo/educational-attainment/cps-detailed-tables.html 
 # Data Cleansing
